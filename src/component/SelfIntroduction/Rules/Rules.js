@@ -3,10 +3,7 @@ import './Rules.css';
 const Rules = ({ items }) => {
     const [times, setTimes] = useState(0);
 
-    const addBreack = () => {
-        const newTime = useState;
-        setTimes(newTime)
-    }
+
 
     let total = 0;
     for (const item of items) {
@@ -19,10 +16,10 @@ const Rules = ({ items }) => {
             <h1>Vai Ami to obak:{items.length}</h1>
             <h1>Add A Break</h1>
             <div className='duration'>
-                <button className='border-radius ' onClick={() => addBreack}>20s</button>
-                <button className='border-radius'>30s</button>
-                <button className='border-radius'>40s</button>
-                <button className='border-radius'>50s</button>
+                <button className='border-radius ' onClick={() => setTimes(20)}>20s</button>
+                <button className='border-radius' onClick={() => setTimes(30)}>30s</button>
+                <button className='border-radius' onClick={() => setTimes(40)}>40s</button>
+                <button className='border-radius' onClick={() => setTimes(50)}>50s</button>
 
             </div>
             <h1>Exercise Details</h1>

@@ -39,7 +39,7 @@ const Header = () => {
                 </div>
             </div>
             <div className="cart-container">
-                <p>Seleted items:{ }</p>
+
                 <SelfIntruduction
                     items={items}
                 ></SelfIntruduction>
