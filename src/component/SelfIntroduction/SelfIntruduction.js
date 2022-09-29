@@ -5,12 +5,14 @@ const SelfIntruduction = ({ items }) => {
     return (
         <div>
 
-            <div>
-                <img src='../../image/277457234_695624915122408_233145056464867423_n.jpg' alt="" />
-            </div>
-            <div>
-                <h3>   Md.Jakir Hossain Raju</h3>
-                Madani,Avenue,Dhaka.
+            <div className='information'>
+                <div >
+                    <img className='img-veiw' src='https://i.ibb.co/WDybM1P/277457234-695624915122408-233145056464867423-n.jpg' alt="" />
+                </div>
+                <div>
+                    <h3>   Md.Jakir Hossain Raju</h3>
+                    Madani,Avenue,Dhaka.
+                </div>
             </div>
             <div className="weight-container">
                 <div className='weight'>
