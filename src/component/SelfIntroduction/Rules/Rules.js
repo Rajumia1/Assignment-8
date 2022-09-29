@@ -13,7 +13,7 @@ const Rules = ({ items }) => {
             <h1>Vai Ami to obak:{items.length}</h1>
             <h1>Add A Break</h1>
             <div className='duration'>
-                <div className='border-radius'><p>10s</p></div>
+
                 <div className='border-radius'><p>20s</p></div>
                 <div className='border-radius'> <p>30s</p></div>
                 <div className='border-radius'><p>40s</p></div>
