@@ -2,6 +2,8 @@
 import React, { useState } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import Extra from '../../Extra/Extra';
+
 import './Rules.css';
 const Rules = ({ items }) => {
     const [times, setTimes] = useState(0);
@@ -34,6 +36,7 @@ const Rules = ({ items }) => {
 
             <button className='btn-activity'  ><p>Activity Completed</p></button>
 
+            <Extra></Extra>
         </div>
     );
 };
