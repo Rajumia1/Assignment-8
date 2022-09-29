@@ -4,7 +4,7 @@ const Rules = ({ items }) => {
     const [times, setTimes] = useState(0);
 
     const addBreack = () => {
-        const newTime = times;
+        const newTime = useState;
         setTimes(newTime)
     }
 
@@ -19,7 +19,7 @@ const Rules = ({ items }) => {
             <h1>Vai Ami to obak:{items.length}</h1>
             <h1>Add A Break</h1>
             <div className='duration'>
-                <button className='border-radius ' onClick={() => addBreack(20)}>20s</button>
+                <button className='border-radius ' onClick={() => addBreack}>20s</button>
                 <button className='border-radius'>30s</button>
                 <button className='border-radius'>40s</button>
                 <button className='border-radius'>50s</button>
