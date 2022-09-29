@@ -1,0 +1,12 @@
+.weight-container {
+    display: flex;
+    box-shadow: 4px 4px 8px gray;
+    margin-right: 30px;
+    margin-top: 20px;
+    background-color: #f5e5e5;
+    border-radius: 10px;
+}
+
+.weight {
+    margin-left: 40px;
+}

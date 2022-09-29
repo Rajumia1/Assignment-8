@@ -1,0 +1,50 @@
+[
+    {
+        "id": "124e",
+        "name": "Biceps",
+        "age": 20,
+        "description": "There are a lots of facilities of gym.Every person should do regular exercise",
+        "time": 45,
+        "img": "https://thumbs.dreamstime.com/z/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg"
+    },
+    {
+        "id": "125e",
+        "name": "Shoulder",
+        "age": 21,
+        "description": "There are a lots of facilities of gym.Every person should do regular exercise",
+        "time": 50,
+        "img": "https://thumbs.dreamstime.com/b/gym-workout-back-bodybuilder-doing-heavy-weight-exercise-33968533.jpg"
+    },
+    {
+        "id": "126e",
+        "name": "ABS",
+        "age": 29,
+        "description": "There are a lots of facilities of gym.Every person should do regular exercise",
+        "time": 40,
+        "img": "https://www.bodybuilding.com/images/2018/april/the-best-ab-workout-for-a-six-pack-header-400x225.jpg"
+    },
+    {
+        "id": "128e",
+        "name": "Legs workout",
+        "age": 26,
+        "description": "There are a lots of facilities of gym.Every person should do regular exercise",
+        "time": "50s",
+        "img": "https://cdn.mos.cms.futurecdn.net/m6x2Xq7QogyRVmY869oPom-320-80.jpg"
+    },
+    {
+        "id": "129e",
+        "name": "Back workout",
+        "age": 23,
+        "description": "There are a lots of facilities of gym.Every person should do regular exercise",
+        "time": 30,
+        "img": "https://hips.hearstapps.com/hmg-prod/images/physical-athlete-exercising-with-cable-machine-royalty-free-image-596435085-1548791435.jpg?crop=1.00xw:0.752xh;0,0&resize=1200:*"
+    },
+    {
+        "id": "130w",
+        "name": "Chest-workout",
+        "age": 27,
+        "description": "There are a lots of facilities of gym.Every person should do regular exercise",
+        "time": 40,
+        "img": "https://i.ytimg.com/vi/mQMA88jJrFc/maxresdefault.jpg"
+    }
+]

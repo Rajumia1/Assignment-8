@@ -1,0 +1,42 @@
+.duration {
+    background-color: gray;
+    box-shadow: 4px 4px 8px gray;
+}
+
+.border-radius {
+    display: inline-block;
+    padding: 15px;
+    padding-top: 10px;
+    margin-left: 20px;
+    color: black;
+    border: 1px solid white;
+    border-radius: 50%;
+    background-color: aliceblue;
+    margin: 10px;
+
+
+}
+
+.exercise-detail {
+    background-color: rgb(223, 212, 212);
+    box-shadow: 4px 4px 8px gray;
+    padding: 20px;
+
+    margin: 20px;
+}
+
+.btn-activity {
+    width: 50%;
+    margin-left: 50px;
+    background-color: aquamarine;
+}
+
+.btn-activity:hover {
+    background-color: orange;
+}
+
+.cart {
+    position: sticky;
+    top: 0;
+
+}

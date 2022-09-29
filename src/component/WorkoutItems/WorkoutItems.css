@@ -1,0 +1,23 @@
+.workout img {
+    width: 300px;
+    height: 280px;
+    padding: 20px;
+    border-radius: 10%;
+}
+
+.workout {
+    border: 2px solid orange;
+    padding: 10px;
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 20px;
+}
+
+.btn-added {
+    margin: 10px;
+    width: 50%;
+    background-color: green;
+}
+
+.btn-added:hover {
+    background-color: orange;
+}
