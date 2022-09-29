@@ -1,6 +1,9 @@
 .duration {
     background-color: gray;
     box-shadow: 4px 4px 8px gray;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
 }
 
 .border-radius {
